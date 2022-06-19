@@ -1,16 +1,9 @@
 # flutter_authentication
 
-A new Flutter project.
+Simple flutter authentication appliation,  that uses google_sign_in, flirebase auth, firebase email sigin, and getIt. 
 
-## Getting Started
+![Login Screen](images/Screenshot_2022-06-19-09-44-08-16_4bb36387de713a70ac334ad9ef0912ae.jpg)
 
-This project is a starting point for a Flutter application.
+![Signup Screen](images/Screenshot_2022-06-19-09-44-10-25_4bb36387de713a70ac334ad9ef0912ae.jpg)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Home_screen](images/Screenshot_2022-06-19-09-44-17-81_4bb36387de713a70ac334ad9ef0912ae.jpg)
