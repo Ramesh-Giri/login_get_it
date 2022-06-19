@@ -2,6 +2,7 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_authentication/services/auth_service.dart';
+import 'package:flutter_easyloading/flutter_easyloading.dart';
 
 import 'locator.dart';
 
@@ -26,6 +27,7 @@ class MyApp extends StatelessWidget {
       title: 'Firebase Authentication',
       debugShowCheckedModeBanner: false,
       themeMode: ThemeMode.system,
+      builder: EasyLoading.init(),
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
