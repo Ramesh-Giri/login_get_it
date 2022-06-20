@@ -22,7 +22,7 @@ class SignUpPage extends StatelessWidget {
           children: [
 
             TextFormField(
-              decoration: InputDecoration(hintText: 'Email'),
+              decoration: const InputDecoration(hintText: 'Email'),
               controller: _emailController,
             ),
 
