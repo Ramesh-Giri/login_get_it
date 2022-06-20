@@ -2,7 +2,7 @@
 
 Simple flutter authentication appliation,  that uses google_sign_in, flirebase auth, firebase email sigin, and getIt. 
 
-Focused on Get_It and optimized login service usinf firebase, insted of UI
+Focused on Get_It , basic unit testing, optimized login service using firebase, instead of UI
 
 Android || IOS
 
